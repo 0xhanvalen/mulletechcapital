@@ -1,0 +1,31 @@
+body {
+  font-family: serif;
+}
+
+.center {
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+ justify-content: center;
+ min-height: 100vh;
+}
+
+h1, p {
+  margin: 0;
+}
+
+h1 {
+  font-variant: small-caps;
+}
+
+h2 {
+  font-variant: small-caps;
+}
+
+.mulletImage {
+  max-width: 125px;
+}
+
+.address {
+  text-align: center;
+}
